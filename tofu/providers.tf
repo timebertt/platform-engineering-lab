@@ -4,7 +4,7 @@ terraform {
   required_providers {
     openstack = {
       source  = "terraform-provider-openstack/openstack"
-      version = "3.3.2"
+      version = "3.4.0"
     }
     random = {
       source  = "hashicorp/random"
