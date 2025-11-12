@@ -22,7 +22,7 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: headlamp
-      version: 0.37.0
+      version: 0.38.0
   install:
     createNamespace: true
   interval: 1h0m0s
