@@ -9,7 +9,7 @@ resources:
 
 images:
 - name: ghcr.io/stefanprodan/podinfo
-  newTag: 6.9.3
+  newTag: 6.9.4
 
 patches:
 - target:
