@@ -23,7 +23,7 @@ spec:
       sourceRef:
         kind: HelmRepository
         name: prometheus-community
-      version: 79.7.1
+      version: 81.6.9
   install:
     createNamespace: true
   interval: 1h0m0s
